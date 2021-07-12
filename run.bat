@@ -1,2 +1,2 @@
-pushd D:\TestAuto\Banking
+pushd D:\TestAuto\Banking-master
 mvn clean install
